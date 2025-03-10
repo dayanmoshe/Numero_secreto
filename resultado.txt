@@ -1,0 +1,7 @@
+Resultado do sorteio: 
+paulo sorteou leticia
+pedro sorteou joao
+joao sorteou pedro
+maria sorteou natalia
+leticia sorteou maria
+natalia sorteou paulo
